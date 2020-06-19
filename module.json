@@ -1,1 +1,18 @@
-
+{   
+   "name": "spell-points",   
+   "title": "Spell Points",   
+   "description": "Sharing Spell Point macros across worlds",   
+   "author": "Mythaell",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.6.2",
+   "compatibleCoreVersion":"0.6.2",
+   "packs": [
+    {
+      "name": "macros",
+      "label": "Spell Point Macros",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "spell-points"
+    }
+  ]
+ }
