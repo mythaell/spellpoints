@@ -6,7 +6,9 @@
    "version": "1.0.0",
    "minimumCoreVersion": "0.6.2",
    "compatibleCoreVersion":"0.6.2",
-   "url": "https://github.com/mythaell/spellpoints"
+	"url": "https://github.com/mythaell/spellpoints",
+	"manifest": "https://raw.githubusercontent.com/mythaell/spellpoints/master/spellpoints/module.json",
+	"download": "https://github.com/mythaell/spellpoints/raw/master/spellpoints.7z"
    "packs": [
     {
       "name": "macros",
